@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-@available(iOS 13, macOS 10.15, *)
+@available(iOS 13, macOS 10.15, watchOS 6.0, *)
 public struct TypewrittenText: View {
     
     @State var text: String = ""
