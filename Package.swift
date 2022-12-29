@@ -21,6 +21,6 @@ let package = Package(
         .target(
             name: "TypewrittenText",
             dependencies: [],
-            exclude: ["TypewrittenTextDemo.gif"]),
+            exclude: ["demo.gif", "logo.png"]),
     ]
 )
