@@ -30,8 +30,8 @@ Nowadays, this technique is still used in some contexts. For instance, ChatGPT f
 This Swift Package, built entirely with [SwiftUI](https://developer.apple.com/documentation/swiftui/), is a great way to implement the effect on your iOS projects.
 
 ### Features
-* Use all the [Text](https://developer.apple.com/documentation/swiftui/text) class modifiers, as this module is built on top of it.
-* Set up the delay between letters to customize the final result.
+* Use all the SwiftUI [Text](https://developer.apple.com/documentation/swiftui/text) class modifiers, as this module is built on top of it
+* Set up the delay between letters to customize the final result
 
 <br />
 
@@ -55,7 +55,7 @@ This Swift Package, built entirely with [SwiftUI](https://developer.apple.com/do
 To install the Kit using [Swift Package Manager](https://github.com/apple/swift-package-manager), you can follow the steps below:
 
 1. In Xcode, select `File` → `Add Packages...`
-2. Paste https://github.com/hues0s/TypewrittenText inside the search box.
+2. Paste https://github.com/hues0s/TypewrittenText inside the search box
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,12 +69,13 @@ import TypewrittenText
 <br />
 
 And then use the `TypewrittenText` class initializer, whose parameters are:
-- `finalText` → The text you want to type
-- `delay` → The amount of seconds the app will take before writing the next letter
-
 ```swift
 TypewrittenText(finalText: String, delay: Double)
 ```
+- `finalText` → The text you want to type
+- `delay` → The amount of seconds the app will take before writing the next letter
+
+
 
 <br />
 
