@@ -16,6 +16,8 @@
     <a href="https://github.com/hues0s/TypewrittenText/issues">Request Feature</a>
     <br />
     <br />
+    <br />
+    <br />
   </p>
 </div>
 
