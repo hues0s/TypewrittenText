@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/hues0s/TypewrittenText">
-    <img src="https://github.com/hues0s/TypewrittenText/blob/main/Sources/TypewrittenText/logo.png" alt="Logo" width="100">
+    <img src="https://github.com/hues0s/TypewrittenText/blob/main/Sources/TypewrittenText/Images/logo.png" alt="Logo" width="100">
   </a>
 
   <h3 align="center">TypewrittenText</h3>
@@ -37,7 +37,7 @@ This Swift Package, built entirely with [SwiftUI](https://developer.apple.com/do
 <br />
 
 <p align="center">
-  <img src="https://github.com/hues0s/TypewrittenText/blob/main/Sources/TypewrittenText/demo.gif" width="80%" />
+  <img src="https://github.com/hues0s/TypewrittenText/blob/main/Sources/TypewrittenText/Images/demo.gif" width="80%" />
 </p>
 
 <br />
