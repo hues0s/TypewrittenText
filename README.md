@@ -9,7 +9,7 @@
   <h3 align="center">TypewrittenText</h3>
 
   <p align="center">
-    SwiftUI module that provides a typewriter effect for the Text class.
+    SwiftUI module that extends the Text class providing a vintage typewriter effect.
     <br />
     <a href="https://github.com/hues0s/TypewrittenText/issues">Report Bug</a>
     ·
