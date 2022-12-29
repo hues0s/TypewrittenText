@@ -14,6 +14,11 @@ public struct TypewrittenText: View {
     let finalText: String
     let delay: Double
     
+    public init(finalText: String, delay: Double) {
+        self.finalText = finalText
+        self.delay = delay
+    }
+    
     public var body: some View {
         Text(text)
             .onAppear {
